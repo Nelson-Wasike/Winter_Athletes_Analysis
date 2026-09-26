@@ -5,7 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 **A cleaning pipeline and policy-oriented analysis of 2,606 Winter Olympic athletes
-- sport, nationality, age, weight, and height - including a geographic bubble map
+ -sport, nationality, age, weight, and height - including a geographic bubble map
 of delegation size by country.**
 
 ## The question
